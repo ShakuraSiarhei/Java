@@ -6,5 +6,4 @@ public class module1_1 {
         double z = ((a - 3) * b / 2) + c;
         System.out.println(z);
     }
-
 }
